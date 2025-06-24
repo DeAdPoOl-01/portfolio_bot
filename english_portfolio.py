@@ -597,7 +597,7 @@ async def football_tour(message: types.Message):
     user_id = message.from_user.id
     football_tour = message.text
     user_data[user_id]["football_tour"] = football_tour
-    file_path = "projects/footbal_tour.pngpip freeze > requirements.txt"
+    file_path = "projects/footbal_tour.png"
     caption_text = ("🏆 Football Tournament – Kazakhstan Participation\n"
                     "I took part in an international youth football tournament in Kazakhstan as a member of my team.\n"
                     "This experience gave me the opportunity to:\n\n"
