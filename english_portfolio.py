@@ -3,7 +3,7 @@ from aiogram.filters import Command
 import asyncio
 
 
-TOKEN = "8077216339:AAHO8hM9UtsuxJmuXS3BrxQB3tmsniEr3Ic"
+TOKEN = "8363103744:AAHUWjoRHUV00wJPOff9jmdGdROOPOwjrMI"
 channel_name = ""
 
 bot = Bot(token=TOKEN)
